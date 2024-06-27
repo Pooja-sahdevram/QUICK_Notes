@@ -7,6 +7,7 @@
 **  Type of dsa **
 ->Linear DS : - where the data store in the linear method , and the memory is in the linear format. like array
 ->Non Linear DS : -where the data is not in linear format and the data is not store in the one by one in the memory . liek graph and tree
+**************************************************************************************************
 
 ** Sapace and time complexity **
 time complexity : time taken by the code to excute a particular task as function of length of input.
@@ -65,8 +66,14 @@ OR- |          3 | 4  111
 Not ~          ~5  -6
 XOR ^          5 ^ 6  : 3
 
+left shift : 1 bit left shift add 0 in last
+right shift
+
 
 ************************************************
+
+
+
 
 
 
