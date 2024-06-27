@@ -71,6 +71,8 @@ right shift
 
 
 ************************************************
+recursion
+fxn call itself with a base condition called recursion.
 
 
 
