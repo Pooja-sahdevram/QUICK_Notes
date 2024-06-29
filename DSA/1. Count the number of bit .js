@@ -1,4 +1,4 @@
-let x = 32;
+let x = 18;
 let divide = x;
 let remainder = [];
 let count = 0;
@@ -12,6 +12,6 @@ function dkjehc() {
       count++;
     }
   }
-  console.log(count);
+  console.log(remainder);
 }
 dkjehc();
